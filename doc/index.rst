@@ -5,7 +5,7 @@
 
 
 Basics
-==========
+======
 
 .. toctree::
    :maxdepth: 2
